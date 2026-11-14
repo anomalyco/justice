@@ -1,5 +1,7 @@
 # justice.
 
+<a href="https://opencode.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://opencode.ai/brand/badges/opencode-built-with-g-dark-20.svg"><img alt="Built with OpenCode" src="https://opencode.ai/brand/badges/opencode-built-with-g-light-20.svg" height="20" /></picture></a>
+
 A small, dependency-free paragraph justification engine for the web, published
 as [`@kitlangton/justice`](https://www.npmjs.com/package/@kitlangton/justice).
 
